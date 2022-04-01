@@ -1,2 +1,4 @@
+safe: true
+plugins: []
 domain: taur.github.io
 url: https://taur.github.io
