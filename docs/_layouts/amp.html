@@ -5,9 +5,10 @@
 	<meta name="theme-color" content="#ffffff">
 	<script async src="https://cdn.ampproject.org/v0.js"></script>
 	<title>{{ page.title }}</title>
-	<link rel="canonical" href="https://{{ site.domain }}{{ page.path }}">
+	<link rel="canonical" href="{{ site.url }}{{ page.path }}">
 	<style amp-boilerplate>{% include css/amp.css %}</style>
 	<noscript><style amp-boilerplate>{% include css/amp_ns.css %}</style></noscript>
+	<style amp-custom>{% include css/amp_main.css %}</style>
 </head><body>
 	{{ content }}
 </body></html>
