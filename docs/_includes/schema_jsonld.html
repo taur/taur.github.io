@@ -1,0 +1,11 @@
+{% if page.type and page.title %}<script type="application/json+ld">
+	{
+		"@context": "http://schema.org",
+		"@type": "{{ page.type }}",
+		"headline": "{{ page.title }}",
+		"datePublished": "{{ page.date }}"{% if page.logo %},
+		"image": [
+			"{{ page.logo }}"
+		]{% endif %}
+	}
+</script>{% endif %}
