@@ -11,10 +11,15 @@
 		$('#dream_search_widget').submit(function(event) {
 			return false;
 		});
-		$('#symbol').change(function(event) {
-			let urlPrefix = '{{ site.url }}';
+		$('#symbol').onkeydown(function(event) {
+			let urlPrefix = '{{ site.url }}/dict/';
 			console.log(urlPrefix);
-			console.log($(this).val());
+			if (let val = $(this).val().length > 0) {
+				console.log(val);
+				let ch = val.subString(0,1);
+				console.log(ch);
+
+			}
 		});
 	});
 </script>
