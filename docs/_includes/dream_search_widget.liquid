@@ -6,12 +6,15 @@
 	<input type="submit" id="submit" value="Search">
 </form>
 <script>
+	window.dreamCache = [];
 	jQuery(document).ready(function($) {
 		$('#dream_search_widget').submit(function(event) {
 			return false;
 		});
-		$('#symbol').change(event) {
-
+		$('#symbol').change(function(event) {
+			let urlPrefix = '{{ site.url }}';
+			console.log(urlPrefix);
+			console.log($(this).val());
 		});
 	});
 </script>
