@@ -7,18 +7,34 @@
 </form>
 <script>
 	window.dreamCache = [];
+	window.urlPrefix = '{{ site.url }}/dict/';
 	jQuery(document).ready(function($) {
 		$('#dream_search_widget').submit(function(event) {
 			return false;
 		});
 		$('#symbol').keydown(function(event) {
-			let urlPrefix = '{{ site.url }}/dict/';
-			if ($(this).val().length > 0) {
-				let val = $(this).val().toLowerCase();
+			let val = $(this).val().toLowerCase();
+			if (val.length > 0) {
 				let ch = val.substr(0, 1);
-				console.log(ch);
-				console.log(ch.match(/^[a-z]$/));
+				if (ch.match(/^[a-z]$/)) {
+					if (!window.dreamCache[ch]) {
+						var res = $.ajax(window.urlPrefix+ch+'.json');
+						console.log(res);
+						window.dreamCache[ch] = JSON.parse(res);
+						console.log(window.dreamCache[ch]);
+						if (val.length > 1) {
+							updateAutoComplete('test');
+						}
+					} else {
+						if (val.length > 1) {
+							updateAutoComplete('test2');
+						}
+					}
+				}
 			}
 		});
 	});
+	window.updateAutoComplete = function(str) {
+		$('#autocomplete').html(str);
+	}
 </script>
