@@ -18,17 +18,18 @@
 				let ch = val.substr(0, 1);
 				if (ch.match(/^[a-z]$/)) {
 					if (!window.dreamCache[ch]) {
-						var res = $.ajax(window.urlPrefix+ch+'.json');
-						console.log(res);
-						window.dreamCache[ch] = JSON.parse(res);
-						console.log(window.dreamCache[ch]);
-						if (val.length > 1) {
-							updateAutoComplete('test');
+						let res = $.ajax(window.urlPrefix+ch+'.json');
+						console.log(res.responseJSON);
+						window.dreamCache[ch] = res.responseJSON;
+					}
+					if (val.length > 1) {
+						let items = window.dreamCache[ch];
+						let output = [];
+						for (i in items) {
+							console.log(items[i]);
+							break;
 						}
-					} else {
-						if (val.length > 1) {
-							updateAutoComplete('test2');
-						}
+						updateAutoComplete('test');
 					}
 				}
 			}
