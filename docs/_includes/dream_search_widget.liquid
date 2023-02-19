@@ -13,13 +13,11 @@
 		});
 		$('#symbol').keydown(function(event) {
 			let urlPrefix = '{{ site.url }}/dict/';
-			console.log(urlPrefix);
 			if ($(this).val().length > 0) {
-				let val = $(this).val();
-				console.log(val);
-				let ch = val.subString(0,1);
+				let val = $(this).val().toLowerCase();
+				let ch = val.substr(0, 1);
 				console.log(ch);
-
+				console.log(ch.match(/^[a-z]$/));
 			}
 		});
 	});
