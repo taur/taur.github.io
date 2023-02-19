@@ -11,7 +11,7 @@
 		$('#dream_search_widget').submit(function(event) {
 			return false;
 		});
-		$('#symbol').onkeydown(function(event) {
+		$('#symbol').keydown(function(event) {
 			let urlPrefix = '{{ site.url }}/dict/';
 			console.log(urlPrefix);
 			if ($(this).val().length > 0) {
