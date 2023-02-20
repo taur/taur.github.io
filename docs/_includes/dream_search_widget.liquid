@@ -7,6 +7,7 @@
 </form>
 <script>
 	window.dreamCache = [];
+	window.cachedVal = false;
 	window.urlPrefix = '{{ site.url }}/dict/';
 	jQuery(document).ready(function($) {
 		$('#dream_search_widget').submit(function(event) {
@@ -19,6 +20,7 @@
 				let ch = val.substr(0, 1);
 				if (ch.match(/^[a-z]$/)) {
 					if (!window.dreamCache[ch]) {
+						window.dreamCache[ch] = true; // set up placeholder
 						let url = window.urlPrefix+ch+'.json';
 						console.log('cache miss, downloading '+url);
 						$.get(url, function(res) {
@@ -36,20 +38,30 @@
 			}
 		});
 	});
+	window.updateAutoCompleteWithVal() {
+		if (window.cachedVal)
+			window.updateAutoComplete(window.cachedVal);
+		window.cachedVal = false;
+	}
 	window.updateAutoComplete = function(val) {
 		let ch = val.substr(0, 1);
-		let items = window.dreamCache[ch];
-		let output = [];
-		console.log('searching for: '+val);
-		for (i in items) {
-			if (items[i].title.toLowerCase().startsWith(val)) {
-				output.push('<details>'
-					+ '<summary>'+items[i].title+'</summary>'
-					+ items[i].desc
-					+ '</details>'
-				);
+		let items = window.dreamCache[ch], output = [];
+		if (items === true) {
+			output.push('Waiting for symbol cache');
+			window.cachedVal = val;
+			setTimeout(window.updateAutoCompleteWithVal, 200);
+		} else {
+			console.log('searching for: '+val);
+			for (i in items) {
+				if (items[i].title.toLowerCase().startsWith(val)) {
+					output.push('<details>'
+						+ '<summary>'+items[i].title+'</summary>'
+						+ items[i].desc
+						+ '</details>'
+					);
+				}
 			}
 		}
-		$('#autocomplete').html(output.join('<br>'));
+		$('#autocomplete').html(output.join(''));
 	}
 </script>
