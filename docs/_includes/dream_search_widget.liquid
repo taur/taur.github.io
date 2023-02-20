@@ -13,8 +13,8 @@
 			return false;
 		});
 		$('#symbol').keydown(function(event) {
-			console.log('keydown triggered');
 			let val = $(this).val().toLowerCase();
+			console.log('keydown triggered, val is: '+val);
 			if (val.length > 0) {
 				let ch = val.substr(0, 1);
 				if (ch.match(/^[a-z]$/)) {
@@ -42,7 +42,7 @@
 		let output = [];
 		console.log('searching for: '+val);
 		for (i in items) {
-			if (items[i].title.toLowercase().startsWith(val)) {
+			if (items[i].title.toLowerCase().startsWith(val)) {
 				output.push(items[i]);
 			}
 		}
