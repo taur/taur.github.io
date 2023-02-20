@@ -18,6 +18,10 @@
 		background-color: #000;
 		color: #0f0;
 	}
+	summary {
+		background-color: #444;
+	}
+
 }
 body {
 	font-family: sans-serif;
