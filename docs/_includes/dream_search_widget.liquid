@@ -13,32 +13,37 @@
 			return false;
 		});
 		$('#symbol').keydown(function(event) {
+			console.log('keydown triggered');
 			let val = $(this).val().toLowerCase();
 			if (val.length > 0) {
 				let ch = val.substr(0, 1);
 				if (ch.match(/^[a-z]$/)) {
 					if (!window.dreamCache[ch]) {
-						$.get(window.urlPrefix+ch+'.json', function(res) {
-							console.log(res);
+						let url = window.urlPrefix+ch+'.json';
+						console.log('cache miss, downloading '+url);
+						$.get(url, function(res) {
+							console.log('downloaded '+url);
 							window.dreamCache[ch] = res;
 							if (val.length > 1)
-								window.updateAutoComplete();
+								window.updateAutoComplete(val);
 						}, 'json');
 					} else {
+						console.log('cache hit, using '+ch);
 						if (val.length > 1)
-							window.updateAutoComplete();
+							window.updateAutoComplete(val);
 					}
 				}
 			}
 		});
 	});
-	window.updateAutoComplete = function() {
+	window.updateAutoComplete = function(val) {
+		let ch = val.substr(0, 1);
 		let items = window.dreamCache[ch];
 		let output = [];
 		for (i in items) {
-			console.log(items[i]);
-			break;
+			if (items[i].title.toLowercase().startsWith(val));
+			output[] = items[i];
 		}
-		$('#autocomplete').html('test');
+		$('#autocomplete').html(output.join('<br>'));
 	}
 </script>
