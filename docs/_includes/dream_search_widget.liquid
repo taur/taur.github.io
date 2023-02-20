@@ -38,13 +38,16 @@
 	});
 	window.updateAutoComplete = function(val) {
 		let ch = val.substr(0, 1);
-		let items = window.dreamCache[ch];			console.log('keydown triggered');
-
+		let items = window.dreamCache[ch];
 		let output = [];
 		console.log('searching for: '+val);
 		for (i in items) {
 			if (items[i].title.toLowerCase().startsWith(val)) {
-				output.push(items[i].title);
+				output.push('<details>'
+					+ '<summary>'+items[i].title+'</summary>'
+					+ items[i].desc
+					+ '</details>'
+				);
 			}
 		}
 		$('#autocomplete').html(output.join('<br>'));
