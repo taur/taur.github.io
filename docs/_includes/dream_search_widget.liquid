@@ -50,7 +50,7 @@
 	}
 	window.updateAutoComplete = function(val) {
 		let ch = val.substr(0, 1), output = '',
-		let items = window.dreamCache[ch];
+			items = window.dreamCache[ch];
 		if (items === true) {
 			output = 'Waiting for symbol cache';
 			window.cachedVal = val;
