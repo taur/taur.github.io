@@ -2,8 +2,8 @@
 <form id="dream_search_widget">
 	<label for="symbol">Symbol</label>
 	<input type="text" id="symbol">
-	<span id="autocomplete"></span>
 	<input type="submit" id="submit" value="Search">
+	<div id="autocomplete" style="text-align: left;"></div>
 </form>
 <script>
 	window.dreamCache = [];
@@ -12,7 +12,7 @@
 		$('#dream_search_widget').submit(function(event) {
 			return false;
 		});
-		$('#symbol').keydown(function(event) {
+		$('#symbol').keyup(function(event) {
 			let val = $(this).val().toLowerCase();
 			console.log('keydown triggered, val is: '+val);
 			if (val.length > 0) {
@@ -38,12 +38,13 @@
 	});
 	window.updateAutoComplete = function(val) {
 		let ch = val.substr(0, 1);
-		let items = window.dreamCache[ch];
+		let items = window.dreamCache[ch];			console.log('keydown triggered');
+
 		let output = [];
 		console.log('searching for: '+val);
 		for (i in items) {
 			if (items[i].title.toLowerCase().startsWith(val)) {
-				output.push(items[i]);
+				output.push(items[i].title);
 			}
 		}
 		$('#autocomplete').html(output.join('<br>'));
