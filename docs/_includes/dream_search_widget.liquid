@@ -15,10 +15,10 @@
 		});
 		$('#symbol').keyup(function(event) {
 			let val = $(this).val().toLowerCase();
-			console.log('keydown triggered, val is: '+val);
 			if (val.length > 0) {
 				let ch = val.substr(0, 1);
 				if (ch.match(/^[a-z]$/)) {
+					console.log('keydown triggered, val is: '+val);
 					if (!window.dreamCache[ch]) {
 						window.dreamCache[ch] = true; // set up placeholder
 						let url = window.urlPrefix+ch+'.json';
@@ -39,29 +39,34 @@
 		});
 	});
 	window.updateAutoCompleteWithVal = function() {
-		if (window.cachedVal)
-			window.updateAutoComplete(window.cachedVal);
-		window.cachedVal = false;
+		if (window.cachedVal) {
+			let ch = window.cachedVal.substr(0, 1);
+			if (window.dreamCache[ch]
+			 && window.dreamCache[ch] !== true) {
+				window.updateAutoComplete(window.cachedVal);
+				window.cachedVal = false;
+			}
+		}
 	}
 	window.updateAutoComplete = function(val) {
-		let ch = val.substr(0, 1);
-		let items = window.dreamCache[ch], output = [];
+		let ch = val.substr(0, 1), output = '',
+		let items = window.dreamCache[ch];
 		if (items === true) {
-			output.push('Waiting for symbol cache');
+			output = 'Waiting for symbol cache';
 			window.cachedVal = val;
 			setTimeout(window.updateAutoCompleteWithVal, 200);
 		} else {
 			console.log('searching for: '+val);
 			for (i in items) {
 				if (items[i].title.toLowerCase().startsWith(val)) {
-					output.push('<details>'
-						+ '<summary>'+items[i].title+'</summary>'
-						+ items[i].desc
-						+ '</details>'
-					);
+					output += '<details>' +
+						'<summary>'+items[i].title+'</summary>' +
+						items[i].desc +
+					'</details>';
 				}
 			}
+			if (output.length == 0) output = "No symbol found";
 		}
-		$('#autocomplete').html(output.join(''));
+		$('#autocomplete').html(output);
 	}
 </script>
