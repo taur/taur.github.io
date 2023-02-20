@@ -52,6 +52,7 @@
 		let ch = val.substr(0, 1), output = '',
 			items = window.dreamCache[ch];
 		if (items === true) {
+			console.log('Scheduled search');
 			output = 'Waiting for symbol cache';
 			window.cachedVal = val;
 			setTimeout(window.updateAutoCompleteWithVal, 200);
