@@ -39,7 +39,9 @@
 		});
 	});
 	window.hashChange = function(e) {
-		$('#symbol').val(location.hash);
+		let val = location.hash.substr(1);
+		$('#symbol').val(val);
+		$('#dream_search_widget').submit();
 	}
 	$(window).bind('hashchange', window.hashChange);
 	if (location.hash && location.hash.length > 0) {
