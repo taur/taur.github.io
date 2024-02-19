@@ -25,7 +25,7 @@
 						console.log('cache miss, downloading '+url);
 						$.get(url, function(res) {
 							console.log('downloaded '+url);
-							window.dreamCache[ch] = res;
+							window.dreamCache[ch] = res; // save to cache
 							if (val.length > 1)
 								window.updateAutoComplete(val);
 						}, 'json');
@@ -38,6 +38,13 @@
 			}
 		});
 	});
+	window.hashChange = function(e) {
+		$('#symbol').val(location.hash);
+	}
+	$(window).bind('hashchange', window.hashChange);
+	if (location.hash && location.hash.length > 0) {
+		window.hashChange();
+	}
 	window.updateAutoCompleteWithVal = function() {
 		if (window.cachedVal) {
 			let ch = window.cachedVal.substr(0, 1);
