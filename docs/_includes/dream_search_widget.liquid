@@ -11,6 +11,7 @@
 	window.urlPrefix = '{{ site.url }}/dict/';
 	jQuery(document).ready(function($) {
 		$('#dream_search_widget').submit(function(event) {
+			window.tryGetFromCache($('#symbol').val());
 			return false;
 		});
 		$('#symbol').keyup(function(event) {
