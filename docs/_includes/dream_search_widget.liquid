@@ -46,7 +46,7 @@
 	}
 	window.hashChange = function(e) {
 		if (location.hash && location.hash.length > 1) {
-			let val = location.hash.substr(1);
+			let val = decodeURI(location.hash.substr(1));
 			$('#symbol').val(val);
 			window.tryGetFromCache(val);
 		}
