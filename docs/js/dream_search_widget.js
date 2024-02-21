@@ -1,6 +1,5 @@
 window.dreamCache = [];
 window.cachedVal = false;
-window.urlPrefix = '{{ site.url }}/dict/';
 jQuery(document).ready(function($) {
 	$('#dream_search_widget').submit(function(event) {
 		let val = $('#symbol').val();
