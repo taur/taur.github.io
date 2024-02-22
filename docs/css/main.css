@@ -32,4 +32,7 @@ details {
 	padding: 2px;
 	border: 1px solid #666;
 }
+details > p {
+	margin: 10px;
+}
 summary { cursor:pointer; }
