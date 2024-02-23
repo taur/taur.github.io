@@ -17,7 +17,7 @@
     },
     {
         "title": "Tablet",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/p3.htm#Pill\">Pill.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Pill\">Pill<\/a>.<\/p>"
     },
     {
         "title": "Tackle",
@@ -36,7 +36,7 @@
         "desc": "<p>To see tadpoles in your dream suggest that you have not reached your full potential. If you are a woman and dream of tadpoles, then the dream may indicate your desire to be pregnant.<\/p>"
     },
     {
-        "title": "affy",
+        "title": "Taffy",
         "desc": "<p>To see or eat taffy in your dream implies that you are enjoying the rewards of your hard work.<\/p>"
     },
     {
@@ -60,8 +60,12 @@
         "desc": "<p>To dream that you are ordering or eating takeout food implies that you are looking for some sort of emotional support. You are not spending enough time confronting your feelings or you have avoided your feelings for too long. Alternatively, the dream may be a metaphor that there is something that you need to &quot;take out&quot; or &quot;take away&quot; from your life.<\/p><p>To dream that you are dressed as a Chinese takeout container means that you are lacking some sort of social life. Perhaps you want someone to take you out.<\/p>"
     },
     {
-        "title": "Talent Show To dream that you are in a talent show indicates that you are recognizing and using your potential and skills. You are acknowledging your abilities and moving toward a new stage in your life. Consider the reaction and behavior of the audience as they symbolize your social circle and support system. If the audience reacts negatively, then it suggests that your friends and family are not supportive of you. Conversely, if the audience reacts positively, then it means that you have a support system to lean on.  To dream that you are watching a talent show suggests that you are not utilizing your full potential. You are watching your own talents go to waste.",
-        "desc": "<p>Talisman<\/p><p>To dream that you are wearing a talisman indicates that you are in need of protection. Sometimes you need to put away your pride and know when to ask for outside help.<\/p>"
+        "title": "Talent Show",
+        "desc": "<p>To dream that you are in a talent show indicates that you are recognizing and using your potential and skills. You are acknowledging your abilities and moving toward a new stage in your life. Consider the reaction and behavior of the audience as they symbolize your social circle and support system. If the audience reacts negatively, then it suggests that your friends and family are not supportive of you. Conversely, if the audience reacts positively, then it means that you have a support system to lean on.  To dream that you are watching a talent show suggests that you are not utilizing your full potential. You are watching your own talents go to waste.<\/p>"
+    },
+    {
+        "title": "Talisman",
+        "desc": "<p>To dream that you are wearing a talisman indicates that you are in need of protection. Sometimes you need to put away your pride and know when to ask for outside help.<\/p>"
     },
     {
         "title": "Talk Show",
@@ -105,7 +109,7 @@
     },
     {
         "title": "Tan",
-        "desc": "<p>*Please See Dream Moods' interpretation of<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/s5.htm#Suntan\">Suntan.<\/p>"
+        "desc": "<p>*Please See Dream Moods' interpretation of <a href=\"#Suntan\">Suntan<\/a>.<\/p>"
     },
     {
         "title": "Tan Lines",
@@ -149,7 +153,7 @@
     },
     {
         "title": "Tap",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/f.htm\">Faucet.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#faucet\">Faucet<\/a>.<\/p>"
     },
     {
         "title": "Tap Dancing",
@@ -161,7 +165,7 @@
     },
     {
         "title": "Tape Measure",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/m2.htm#MeasuringTape\">Measuring Tape.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Measuring%20Tape\">Measuring Tape<\/a>.<\/p>"
     },
     {
         "title": "Tape Recorder",
@@ -217,10 +221,10 @@
     },
     {
         "title": "Taste",
-        "desc": "<p>To taste something bad in your dream suggests that you need to reconsider some situation, relationship or decision. Give it a second chance. For specific taste, please see<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/s3.htm#Sour\">Sour,<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/s5.htm#Sweet\">Sweet,<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/s.htm#Salt\">Salty in the Dream Moods dream dictionary.<\/p>"
+        "desc": "<p>To taste something bad in your dream suggests that you need to reconsider some situation, relationship or decision. Give it a second chance. For specific taste, please see: <a href=\"#Sour\">Sour<\/a>, <a href=\"#Sweet\">Sweet</a> or <a href=\"#Salt\">Salty<\/a>.<\/p>"
     },
     {
-        "title": "ater Tots",
+        "title": "Tater Tots",
         "desc": "<p>To see or eat tater tots in your dream implies that you are focusing too much on petty matters.<\/p>"
     },
     {
@@ -233,7 +237,7 @@
     },
     {
         "title": "Tavern",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/p5.htm#Pub\">Pub.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Pub\">Pub<\/a>.<\/p>"
     },
     {
         "title": "Taxes",
@@ -241,7 +245,11 @@
     },
     {
         "title": "Taxi",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/c.htm#cab\">Cab.<\/p><p>Taxidermy<\/p><p>To see taxidermy in your dream suggests that you need to give new life to some relationship or situation that you previously thought was forgotten or dead.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#cab\">Cab<\/a>.<\/p>"
+    },
+    {
+        "title": "Taxidermy",
+        "desc": "<p>To see taxidermy in your dream suggests that you need to give new life to some relationship or situation that you previously thought was forgotten or dead.<\/p>"
     },
     {
         "title": "Tea",
@@ -257,7 +265,7 @@
     },
     {
         "title": "Teacher",
-        "desc": "<p>To see your teacher (past or present) in your dream suggests that you are seeking some advice, guidance, or knowledge. You are heading into a new path in life and are ready to learn by example or from a past experience. Consider your own personal experiences with that particular teacher. What subject was taught? Alternatively, a teacher relates to issues with authority and seeking approval. You may be going through a situation in your waking life where you feel that you are being treated like a student or in which you feel you are being put to a test.Also pay attention to the demeanor and attitude of the teacher in your dream. If the teacher in your dream is mean, then it implies that you may be putting too much pressure on yourself to succeed.<\/p><p>To dream that you are a teacher indicates that you are in a position of disseminating your knowledge and wisdom to others. The dream may imply how you are &quot;teaching someone a lesson&quot; and giving them a hard time about something. If you are a teacher in real life, then the dream is just a reflection of who you are and is about your work.<\/p><p>To dream that you are having sex with a teacher implies that there are still things you need to learn when it comes to sex.<\/p><p>*Please see also<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/s.htm#school\">School.<\/p>"
+        "desc": "<p>To see your teacher (past or present) in your dream suggests that you are seeking some advice, guidance, or knowledge. You are heading into a new path in life and are ready to learn by example or from a past experience. Consider your own personal experiences with that particular teacher. What subject was taught? Alternatively, a teacher relates to issues with authority and seeking approval. You may be going through a situation in your waking life where you feel that you are being treated like a student or in which you feel you are being put to a test.Also pay attention to the demeanor and attitude of the teacher in your dream. If the teacher in your dream is mean, then it implies that you may be putting too much pressure on yourself to succeed.<\/p><p>To dream that you are a teacher indicates that you are in a position of disseminating your knowledge and wisdom to others. The dream may imply how you are &quot;teaching someone a lesson&quot; and giving them a hard time about something. If you are a teacher in real life, then the dream is just a reflection of who you are and is about your work.<\/p><p>To dream that you are having sex with a teacher implies that there are still things you need to learn when it comes to sex.<\/p><p>*Please see also: <a href=\"#school\">School<\/a>.<\/p>"
     },
     {
         "title": "Teacups",
@@ -265,7 +273,7 @@
     },
     {
         "title": "Teal",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/d3.htm#Duck\">Duck or See<a href=\"http:\/\/www.dreammoods.com\/dreamthemes\/colors.htm#Teal\">Dream Moods' Dream Themes: Colors.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Duck\">Duck<\/a> or See: <a href=\"http:\/\/www.dreammoods.com\/dreamthemes\/colors.htm#Teal\">Dream Moods' Dream Themes: Colors<\/a>.<\/p>"
     },
     {
         "title": "Teakettle",
@@ -301,7 +309,7 @@
     },
     {
         "title": "Teeth",
-        "desc": "<p>To dream that you have rotting or decaying teeth implies that you may have said something that you shouldn't have. You may have uttered some false or foul words and those words are coming back to haunt you.<\/p><p>To dream that your teeth is sparkling or gleaming signifies happiness and fulfilled wishes.<\/p><p>Dreaming of brushing your teeth suggests that you are feeling defensive about any criticism directed towards you. You are putting up a shield or barrier to protect yourself from potential hurt. Alternatively, the dream means that you are preoccupied with your appearance and are worried about how others perceive you. It refers to your level of confidence, your struggles and your aggressiveness. You need to look out for yourself and your own interest. Perhaps, you feel that your position is shaky.<\/p><p>To dream that you don't want to brush your teeth implies that you tend to speak your mind even if it may offend others.<\/p><p>To dream that your teeth has fallen out and you try to refit them back into the mouth signifies a lack of self-confidence and embarrassment. You are afraid that others will know of your short-comings. If you acted calmly in your dream, then it may point to how can make the best out of any situation. You are able to rise above unfavorable circumstances.<\/p><p>Dreaming that there are teeth growing all over inside your mouth from the roof of your mouth to under your tongue means that you are on the defensive about something and may be a little overly aggressive about it.<\/p><p>If you dream that your teeth is broken or that it has been knocked out, then it means that you have misspoken about some matter. It is also refers to the consequences of your words and\/or what you say about others.<\/p><p>To dream that you are pulling teeth out of your mouth and it hurts refers to something that you do not want to do. If you dream of pulling teeth out of your mouth and it does not hurt, then it means that a situation was not as difficult or tedious as you had initially assumed.<\/p><p>If you have a dream that you are carrying a tooth, then it is symbolic of money or lack of in your pocket. You are experiencing some financial issues.<\/p><p>*For an in depth analysis, click on Dream Moods' section on<a href=\"http:\/\/www.dreammoods.com\/commondreams\/teeth-dreams.html\">Common Dreams: Teeth<\/p>"
+        "desc": "<p>To dream that you have rotting or decaying teeth implies that you may have said something that you shouldn't have. You may have uttered some false or foul words and those words are coming back to haunt you.<\/p><p>To dream that your teeth is sparkling or gleaming signifies happiness and fulfilled wishes.<\/p><p>Dreaming of brushing your teeth suggests that you are feeling defensive about any criticism directed towards you. You are putting up a shield or barrier to protect yourself from potential hurt. Alternatively, the dream means that you are preoccupied with your appearance and are worried about how others perceive you. It refers to your level of confidence, your struggles and your aggressiveness. You need to look out for yourself and your own interest. Perhaps, you feel that your position is shaky.<\/p><p>To dream that you don't want to brush your teeth implies that you tend to speak your mind even if it may offend others.<\/p><p>To dream that your teeth has fallen out and you try to refit them back into the mouth signifies a lack of self-confidence and embarrassment. You are afraid that others will know of your short-comings. If you acted calmly in your dream, then it may point to how can make the best out of any situation. You are able to rise above unfavorable circumstances.<\/p><p>Dreaming that there are teeth growing all over inside your mouth from the roof of your mouth to under your tongue means that you are on the defensive about something and may be a little overly aggressive about it.<\/p><p>If you dream that your teeth is broken or that it has been knocked out, then it means that you have misspoken about some matter. It is also refers to the consequences of your words and\/or what you say about others.<\/p><p>To dream that you are pulling teeth out of your mouth and it hurts refers to something that you do not want to do. If you dream of pulling teeth out of your mouth and it does not hurt, then it means that a situation was not as difficult or tedious as you had initially assumed.<\/p><p>If you have a dream that you are carrying a tooth, then it is symbolic of money or lack of in your pocket. You are experiencing some financial issues.<\/p><p>*For an in depth analysis, click on Dream Moods' section on: <a href=\"http:\/\/www.dreammoods.com\/commondreams\/teeth-dreams.html\">Common Dreams: Teeth<\/a><\/p>"
     },
     {
         "title": "Telegram",
@@ -317,7 +325,7 @@
     },
     {
         "title": "Telephone",
-        "desc": "<p>To see or hear a telephone in your dream signifies a message from your subconscious or some sort of telepathic communication. You may be forced to confront issues which you have been avoiding. Alternatively, the telephone represents your communication and relationship with others. If there is no dial tone or the phone is left off the hook, then the dream indicates that you are shutting yourself out. You are experiencing difficulties in getting your thoughts and feelings across. To hear a dial tone in your dream means that you are receptive to new ideas and open to other's opinions.<\/p><p>To dream that you do not want to return a call or answer a ringing telephone indicates a lack of communication. There is a situation or relationship that you are trying to keep at a distance. To dream that the telephone is constantly ringing means that some message is not coming through properly.<\/p><p>To dream that you are having a telephone conversation with someone you know signifies an issue that you need to confront with that person. This issue may have to do with letting go some part of yourself.If you are put on hold, then the dream is a metaphor for being taken for granted or being unable to freely express yourself.<\/p><p>To dream that you dial the wrong number means that you are experiencing difficulties in relating to others. You have trouble expressing yourself and over-think things.<\/p><p>To dream that your telephone has been tapped indicates that aspects of your subconscious must be confronted. Alternatively, it implies that you have a fear of being exposed. There is something you are hiding.<\/p><p>**See The Meaning In Action: &quot;<a href=\"http:\/\/dreammoods.com\/cgibin\/dreambank.pl?method=exact&amp;header=dreamid&amp;search=telephonedream1\">Can't Make Phone Call&quot;<\/p>"
+        "desc": "<p>To see or hear a telephone in your dream signifies a message from your subconscious or some sort of telepathic communication. You may be forced to confront issues which you have been avoiding. Alternatively, the telephone represents your communication and relationship with others. If there is no dial tone or the phone is left off the hook, then the dream indicates that you are shutting yourself out. You are experiencing difficulties in getting your thoughts and feelings across. To hear a dial tone in your dream means that you are receptive to new ideas and open to other's opinions.<\/p><p>To dream that you do not want to return a call or answer a ringing telephone indicates a lack of communication. There is a situation or relationship that you are trying to keep at a distance. To dream that the telephone is constantly ringing means that some message is not coming through properly.<\/p><p>To dream that you are having a telephone conversation with someone you know signifies an issue that you need to confront with that person. This issue may have to do with letting go some part of yourself.If you are put on hold, then the dream is a metaphor for being taken for granted or being unable to freely express yourself.<\/p><p>To dream that you dial the wrong number means that you are experiencing difficulties in relating to others. You have trouble expressing yourself and over-think things.<\/p><p>To dream that your telephone has been tapped indicates that aspects of your subconscious must be confronted. Alternatively, it implies that you have a fear of being exposed. There is something you are hiding.<\/p><p>**See The Meaning In Action: &quot;<a href=\"http:\/\/dreammoods.com\/cgibin\/dreambank.pl?method=exact&amp;header=dreamid&amp;search=telephonedream1\">Can't Make Phone Call<\/a>&quot;<\/p>"
     },
     {
         "title": "Telephone Book",
@@ -353,7 +361,7 @@
     },
     {
         "title": "Television",
-        "desc": "<p>To dream that you are watching television represents your mind and its flowing thoughts. The dream reflects how you are receiving, integrating, and expressing your ideas and thoughts. The programs you dream of watching are an objective view of the things that are in your mind.<\/p><p>To dream that you are on TV suggests that there is something that you want to broadcast to the whole world. You have the desire to express yourself. Alternatively, the dream means that you are trying to take a more objective view on your life issues. If you dream that the TV show is your reality, then it means that you are avoiding some responsibility.<\/p><p>To dream that the television is broken or that the picture is fuzzy suggests that you are looking at a problem all wrong. You need to re-evaluate an issue.<\/p><p>**See The Meaning In Action: &quot;<a href=\"http:\/\/dreammoods.com\/cgibin\/dreambank.pl?method=exact&amp;header=dreamid&amp;search=televisiondream1\">Roswell&quot; &amp; &quot;<a href=\"http:\/\/dreammoods.com\/cgibin\/dreambank.pl?method=exact&amp;header=dreamid&amp;search=televisiondream2\">TV Dream&quot;<\/p>"
+        "desc": "<p>To dream that you are watching television represents your mind and its flowing thoughts. The dream reflects how you are receiving, integrating, and expressing your ideas and thoughts. The programs you dream of watching are an objective view of the things that are in your mind.<\/p><p>To dream that you are on TV suggests that there is something that you want to broadcast to the whole world. You have the desire to express yourself. Alternatively, the dream means that you are trying to take a more objective view on your life issues. If you dream that the TV show is your reality, then it means that you are avoiding some responsibility.<\/p><p>To dream that the television is broken or that the picture is fuzzy suggests that you are looking at a problem all wrong. You need to re-evaluate an issue.<\/p><p>**See The Meaning In Action: &quot;<a href=\"http:\/\/dreammoods.com\/cgibin\/dreambank.pl?method=exact&amp;header=dreamid&amp;search=televisiondream1\">Roswell<\/a>&quot; &amp; &quot;<a href=\"http:\/\/dreammoods.com\/cgibin\/dreambank.pl?method=exact&amp;header=dreamid&amp;search=televisiondream2\">TV Dream<\/a>&quot;<\/p>"
     },
     {
         "title": "Temperature",
@@ -361,7 +369,7 @@
     },
     {
         "title": "Tempest",
-        "desc": "<p>To dream that you are caught in a tempest indicates a violent emotional outbreak. You are experiencing a lot of anger, rage and turmoil.<\/p><p>*See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/s4.htm#Storm\">Storm or<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/c4.htm#Cyclones\">Cyclones.<\/p>"
+        "desc": "<p>To dream that you are caught in a tempest indicates a violent emotional outbreak. You are experiencing a lot of anger, rage and turmoil.<\/p><p>*See: <a href=\"#Storm\">Storm<\/a> or: <a href=\"#Cyclones\">Cyclones<\/a>.<\/p>"
     },
     {
         "title": "Temple",
@@ -381,11 +389,11 @@
     },
     {
         "title": "Tennis",
-        "desc": "<p>To dream that you are playing tennis represents changes or challenges in your life. You need to actively assert yourself and prove yourself time and time again. Alternatively, playing or watching tennis indicates that you are unable to commit to a situation or decision. You are literally going back and forth between two choices. Perhaps the dream is trying to tell you that &quot;the ball is in your court.&quot; It is your turn to make the next move. meanings by DreamMoods.com<\/p>"
+        "desc": "<p>To dream that you are playing tennis represents changes or challenges in your life. You need to actively assert yourself and prove yourself time and time again. Alternatively, playing or watching tennis indicates that you are unable to commit to a situation or decision. You are literally going back and forth between two choices. Perhaps the dream is trying to tell you that &quot;the ball is in your court.&quot; It is your turn to make the next move. meanings by DreamMoods.com<\/p><p>Since one of the score in tennis is denoted as &quot;love&quot;, then the game of tennis may be a metaphor for a romantic relationship or a courtship.<\/p>"
     },
     {
-        "title": "Since one of the score in tennis is denoted as &quot;love&quot;, then the game of tennis may be a metaphor for a romantic relationship or a courtship.",
-        "desc": "<p>Tennis Court<\/p><p>To see a tennis court in your dream implies that you need to choose a side in some challenge or argument.<\/p>"
+        "title": "Tennis Court",
+        "desc": "<p>To see a tennis court in your dream implies that you need to choose a side in some challenge or argument.<\/p>"
     },
     {
         "title": "Tent",
@@ -421,7 +429,7 @@
     },
     {
         "title": "Test",
-        "desc": "<p>To dream that you are taking a test indicates that you are being put to the test or being scrutinized in some way. If you fail the test, then it suggests that you are feeling inadequate or insecure about some aspect of your waking life. If you ace the test, then it means that you are prepared and ready for the task at hand. There is also the notion that if you visualize success, then you will achieve success. Thus, this dream may be a &quot;practice exercise&quot; for you to visualize success in your real life. Alternatively, the dream may be a pun on &quot;feeling testy&quot; and irritated.<\/p><p>*Please see Dream Moods'<a href=\"http:\/\/www.dreammoods.com\/commondreams\/test-dreams.html\">Common Dreams: Exam.<\/p>"
+        "desc": "<p>To dream that you are taking a test indicates that you are being put to the test or being scrutinized in some way. If you fail the test, then it suggests that you are feeling inadequate or insecure about some aspect of your waking life. If you ace the test, then it means that you are prepared and ready for the task at hand. There is also the notion that if you visualize success, then you will achieve success. Thus, this dream may be a &quot;practice exercise&quot; for you to visualize success in your real life. Alternatively, the dream may be a pun on &quot;feeling testy&quot; and irritated.<\/p><p>*Please see Dream Moods' <a href=\"http:\/\/www.dreammoods.com\/commondreams\/test-dreams.html\">Common Dreams: Exam<\/a>.<\/p>"
     },
     {
         "title": "Test Tube",
@@ -448,7 +456,7 @@
         "desc": "<p>If you have never been to Texas, but dream of this state, then the dream means that you need to think big and keep an open mind. If you live in Texas, then the dream may just be a reflection of your reality.<\/p>"
     },
     {
-        "title": "xt Message",
+        "title": "Text Message",
         "desc": "<p>To dream that you are sending or receiving a text message represents your connection to others and your network of friendships. The dream may also allude to romance.Alternatively, text messages represent messages from your subconscious.<\/p><p>Dreaming that you are unable to send out a text message means that you are having difficulties getting your thoughts and feelings across. Perhaps you feel that you are not getting through to others or that they are not understanding you.<\/p>"
     },
     {
@@ -481,7 +489,7 @@
     },
     {
         "title": "Theme Park",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/a3.htm#AmusementPark\">Amusement Park.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Amusement%20Park\">Amusement Park<\/a>.<\/p>"
     },
     {
         "title": "Therapist",
@@ -525,7 +533,7 @@
     },
     {
         "title": "Thong",
-        "desc": "<p>To see or wear a thong in your dreamrepresents satisfaction with your body image and your sexuality. Alternatively, the dream denotes your readiness to expose or reveal an aspect of yourself that was previously private. You are opening yourself up to others.<\/p><p>If your thong is showing from under your pants, then it denotes a lack of respect or taste. You are committing some indiscretion.<\/p><p>*Please See Dream Mo0ds' interpretation for<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/u.htm#Underwear\">Underwear.<\/p>"
+        "desc": "<p>To see or wear a thong in your dreamrepresents satisfaction with your body image and your sexuality. Alternatively, the dream denotes your readiness to expose or reveal an aspect of yourself that was previously private. You are opening yourself up to others.<\/p><p>If your thong is showing from under your pants, then it denotes a lack of respect or taste. You are committing some indiscretion.<\/p><p>*Please See Dream Mo0ds' interpretation for: <a href=\"#Underwear\">Underwear<\/a>.<\/p>"
     },
     {
         "title": "Thorns",
@@ -533,7 +541,7 @@
     },
     {
         "title": "Thread",
-        "desc": "<p>To see thread in your dream symbolizes your life path and destiny. It also represents a connection to your thoughts and ideas. Consider also the color of the thread and look up the significance in Dream Moods'<a href=\"http:\/\/www.dreammoods.com\/dreamthemes\/colors.htm\">Dream Themes: Colors. meanings by DreamMoods.com<\/p>"
+        "desc": "<p>To see thread in your dream symbolizes your life path and destiny. It also represents a connection to your thoughts and ideas. Consider also the color of the thread and look up the significance in Dream Moods' <a href=\"http:\/\/www.dreammoods.com\/dreamthemes\/colors.htm\">Dream Themes: Colors<\/a>.<\/p>"
     },
     {
         "title": "Threaten",
@@ -857,7 +865,7 @@
     },
     {
         "title": "Toothless",
-        "desc": "<p>To dream that you are toothless signifies your inability to reach your goals and advance toward your interests.Bad news and ill health will prevent you from achieving your desires.<\/p><p>To dream that someone is toothless indicates that your rivals are attempting to bring down your good name.<\/p><p>*Please See Also Dream Moods'<a href=\"http:\/\/dreammoods.com\/cgibin\/teethdreams.pl?method=exact&amp;header=dreamid&amp;search=teethintro\">Common Dreams: Teeth.<\/p>"
+        "desc": "<p>To dream that you are toothless signifies your inability to reach your goals and advance toward your interests.Bad news and ill health will prevent you from achieving your desires.<\/p><p>To dream that someone is toothless indicates that your rivals are attempting to bring down your good name.<\/p><p>*Please See Also Dream Moods' <a href=\"http:\/\/dreammoods.com\/cgibin\/teethdreams.pl?method=exact&amp;header=dreamid&amp;search=teethintro\">Common Dreams: Teeth<\/a>.<\/p>"
     },
     {
         "title": "Toothpaste",
@@ -885,7 +893,7 @@
     },
     {
         "title": "Topless",
-        "desc": "<p>To dream that you are topless signifies your way of showing and exhibiting love. You may be inviting love toward your direction.<\/p><p>*Please See Also Dream Moods'<a href=\"http:\/\/dreammoods.com\/cgibin\/teethdreams.pl?method=exact&amp;header=dreamid&amp;search=teethintro\">Common Dreams:<a href=\"http:\/\/http:\/\/dreammoods.com\/cgibin\/nakeddreams.pl?method=exact&amp;header=dreamid&amp;search=nakedintro\">Naked.<\/p>"
+        "desc": "<p>To dream that you are topless signifies your way of showing and exhibiting love. You may be inviting love toward your direction.<\/p><p>*Please See Also Dream Moods' <a href=\"http:\/\/dreammoods.com\/cgibin\/nakeddreams.pl?method=exact&amp;header=dreamid&amp;search=nakedintro\">Common Dreams: Naked<\/a>.<\/p>"
     },
     {
         "title": "Toque",
@@ -897,10 +905,10 @@
     },
     {
         "title": "Tornado",
-        "desc": "<p>To see a tornado in your dream suggests that you are experiencing some emotional outbursts and\/or anger issues. You are lashing out at those around you. Is there a situation or relationship in your life that may be potentially destructive?<\/p><p>To dream that you are in a tornado means that you are feeling overwhelmed and out of control. You have too many things going on in your life. If you dream that you come out of the tornado with no injuries, then it implies that the rough times are temporary and you will come out of it stronger and happier.<\/p><p>To see several tornadoes in your dream represents people around you who are prone to violent outbursts and shifting mood swings. It may also symbolize a volatile situation or relationship.<\/p><p>**See The Meaning In Action: &quot;<a href=\"http:\/\/dreammoods.com\/cgibin\/dreambank.pl?method=exact&amp;header=dreamid&amp;search=tornadodream1\">Tornado&quot;<\/p>"
+        "desc": "<p>To see a tornado in your dream suggests that you are experiencing some emotional outbursts and\/or anger issues. You are lashing out at those around you. Is there a situation or relationship in your life that may be potentially destructive?<\/p><p>To dream that you are in a tornado means that you are feeling overwhelmed and out of control. You have too many things going on in your life. If you dream that you come out of the tornado with no injuries, then it implies that the rough times are temporary and you will come out of it stronger and happier.<\/p><p>To see several tornadoes in your dream represents people around you who are prone to violent outbursts and shifting mood swings. It may also symbolize a volatile situation or relationship.<\/p><p>**See The Meaning In Action: &quot;<a href=\"http:\/\/dreammoods.com\/cgibin\/dreambank.pl?method=exact&amp;header=dreamid&amp;search=tornadodream1\">Tornado<\/a>&quot;<\/p>"
     },
     {
-        "title": "pedo",
+        "title": "Torpedo",
         "desc": "<p>To see a torpedo in your dream suggests that you need to be more direct and honest with your feelings. Or on the other hand, you may be too direct and blunt. The torpedo also has phallic connotations and signify masculine aggression or power.<\/p>"
     },
     {
@@ -941,7 +949,11 @@
     },
     {
         "title": "Toupee",
-        "desc": "<p>*Please see<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/h.htm#Hairpiece\">Hairpiece.<\/p><p>Tour<\/p><p>To dream that you are on a travel tourindicates that you are ready to explore hidden and unknown aspects of yourself. You are welcoming any new changes that occur.<\/p><p>To dream that you are a concert tour represents your aspirations for fame. Having to be in a different city every other day may mean that you are feeling uprooted. You are lacking a sense of belonging.<\/p>"
+        "desc": "<p>*Please see: <a href=\"#Hairpiece\">Hairpiece<\/a>.<\/p>"
+    },
+    {
+        "title": "Tour",
+        "desc": "<p>To dream that you are on a travel tourindicates that you are ready to explore hidden and unknown aspects of yourself. You are welcoming any new changes that occur.<\/p><p>To dream that you are a concert tour represents your aspirations for fame. Having to be in a different city every other day may mean that you are feeling uprooted. You are lacking a sense of belonging.<\/p>"
     },
     {
         "title": "Tourist",
@@ -981,19 +993,23 @@
     },
     {
         "title": "Toxins",
-        "desc": "<p>* Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/p4.htm#Poison\">Poison.<\/p><p>Toy Box<\/p><p>Tosee a toy box in your dream indicates that you are putting your childish ways behind you. Alternatively, the dream represents your need to sort out unresolved issues from your childhood.<\/p>"
+        "desc": "<p>* Please See: <a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/p4.htm#Poison\">Poison<\/a>.<\/p>"
+    },
+    {
+        "title": "Toy Box",
+        "desc": "<p>To see a toy box in your dream indicates that you are putting your childish ways behind you. Alternatively, the dream represents your need to sort out unresolved issues from your childhood.<\/p>"
     },
     {
         "title": "Toys",
         "desc": "<p>Tosee or play with toys in your dream symbolize childhood, domestic joy and harmony. You may be searching for the comfort and security of home. It also represents playful attitudes and your childish ways. Alternatively, the dream may be a metaphor that you are &quot;toying&quot; with somebody's feelings, especially if you are playing together with someone in the dream. Perhaps you are leading someone on.<\/p><p>To dream that you are giving away toys denote that you are being acknowledged for your good deeds.<\/p><p>To see or play with broken toys in your dream suggest that you are trying to make the best out of a negative situation. If you or someone breaks a toy, then it indicates a lack of joy, harmony, or security in your life. You are no longer deriving as much joy from some aspect of your life as you used to. Consider the type of toy and its significance to you.<\/p>"
     },
     {
-        "title": "cheotomy",
+        "title": "Tracheotomy",
         "desc": "<p>To see or dream that you have a tracheotomy implies that you are looking for an outlet to relieve some of your pent up tension and anxiety.<\/p>"
     },
     {
         "title": "Track",
-        "desc": "<p>To dream that you are tracking something or someone suggests that you need to get in touch with some aspect of yourself. The dream may be a pun for some goal, person, or ideal which you have lost track of.<\/p><p>To dream that you are being tracked indicates that you need to be more careful and stand up for yourself. You need to be on guard and on the defensive.<\/p><p>To dream that you are running around a track implies that you are going in circles. You feel that your life is headed no where. It is time to reevaluate your goals.<\/p><p>*Please see also<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/r.htm#Racetrack\">Racetrack.<\/p>"
+        "desc": "<p>To dream that you are tracking something or someone suggests that you need to get in touch with some aspect of yourself. The dream may be a pun for some goal, person, or ideal which you have lost track of.<\/p><p>To dream that you are being tracked indicates that you need to be more careful and stand up for yourself. You need to be on guard and on the defensive.<\/p><p>To dream that you are running around a track implies that you are going in circles. You feel that your life is headed no where. It is time to reevaluate your goals.<\/p><p>*Please see also: <a href=\"#Racetrack\">Racetrack<\/a>.<\/p>"
     },
     {
         "title": "Tractor",
@@ -1024,7 +1040,7 @@
         "desc": "<p>To dream that you are on a trail signifies your progress in life. Consider the difficulty and condition of the trail. The dream may also be a metaphor that you are &quot;trailing behind&quot; on some task, some competition or some endeavor.<\/p>"
     },
     {
-        "title": "iler",
+        "title": "Trailer",
         "desc": "<p>To see a trailer in your dream suggests that you are feeling overburdened. You are carrying more weight on your shoulders than you need to. The dream may also indicate that you are more of a follower than a leader.<\/p><p>In particular, dreaming of a horse trailer means that you are underutilizing your power and strength. You may be waiting for the right moment to exert your power.<\/p>"
     },
     {
@@ -1041,7 +1057,11 @@
     },
     {
         "title": "Train Tracks",
-        "desc": "<p>* Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/r.htm#Railroad\">Railroad.<\/p><p>Trainer<\/p><p>To see or dream that you have a personal trainer suggests that you need to push yourself to do better in all that you do. Do not take the easy way out. Alternatively, the dream indicates that you are seeking guidance and help in improving your self image.<\/p><p>To see or dream that you are a dog trainer indicates that you need to keep your negative behavior in check. You need to show more restraint.<\/p>"
+        "desc": "<p>* Please See: <a href=\"#Railroad\">Railroad<\/a>.<\/p>"
+    },
+    {
+        "title": "Trainer",
+        "desc": "<p>To see or dream that you have a personal trainer suggests that you need to push yourself to do better in all that you do. Do not take the easy way out. Alternatively, the dream indicates that you are seeking guidance and help in improving your self image.<\/p><p>To see or dream that you are a dog trainer indicates that you need to keep your negative behavior in check. You need to show more restraint.<\/p>"
     },
     {
         "title": "Training",
@@ -1077,7 +1097,7 @@
     },
     {
         "title": "Transformation",
-        "desc": "<p>To dream that you are undergoing a transformation indicates a need for change or a deviation from your normal routine. Expect some major changes ahead. Alternatively, a transformation refers to your expanded awareness and a deep-level personality development.<\/p><p>*Please see also<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/m2.htm#Metamorphosis\">Metamorphosis.<\/p>"
+        "desc": "<p>To dream that you are undergoing a transformation indicates a need for change or a deviation from your normal routine. Expect some major changes ahead. Alternatively, a transformation refers to your expanded awareness and a deep-level personality development.<\/p><p>*Please see also: <a href=\"#Metamorphosis\">Metamorphosis<\/a>.<\/p>"
     },
     {
         "title": "Transfusion",
@@ -1109,7 +1129,7 @@
     },
     {
         "title": "Transvestism",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/c5.htm#CrossDressing\">Cross Dressing<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Cross%20Dressing\">Cross Dressing<\/a><\/p>"
     },
     {
         "title": "Trap",
@@ -1129,7 +1149,11 @@
     },
     {
         "title": "Trash",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/g.htm#Garbage\">Garbage.<\/p><p>Trash Can<\/p><p>*Please see<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/g.htm#GarbageCan\">Garbage Can.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Garbage\">Garbage<\/a>.<\/p>"
+    },
+    {
+        "title": "Trash Can",
+        "desc": "<p>*Please see: <a href=\"#Garbage%20Can\">Garbage Can<\/a>.<\/p>"
     },
     {
         "title": "Trash Compactor",
@@ -1156,8 +1180,8 @@
         "desc": "<p>To dream that you find treasures indicate that you have unveiled some hidden skill or talent. It also symbolizes your self worth and what you have to offer to the world. Alternatively, the dream may be a metaphor for something or someone that your value or &quot;treasure&quot;.<\/p><p>To dream that you are burying treasure suggests that you are thinking ahead to the future. Perhaps there is some talent or skill that you want to keep secret from others.<\/p>"
     },
     {
-        "title": "rees",
-        "desc": "<p>To see lush green trees in your dream symbolize new hopes, growth, desires, knowledge, and life. It also implies strength, protection and stability. You are concentrating on your own self-development and individuation.<\/p><p>To dream that you are climbing a tree signifies achievement of your career goals and attainment of higher positions in life. The speed at which you climb the tree will parallel the speed of your achievement of these goals. If you are sitting under a tree alone, then it indicates a time for reflection. You are contemplating an important decision. If you are sitting under a tree with someone else, then it means that you are evaluating the relationship. The dream may also mean satisfaction with your current situation.<\/p><p>To dream that you chop or cut down a tree indicates that you are wasting your energy, time, and money on foolish pursuits. Alternatively, the dream may be a comment on your sexual fear or guilt.<\/p><p>To see a falling tree in your dream means that you are feeling off balance and out of sync. Perhaps, you are off track and headed in the wrong direction.<\/p><p>To see a withered or dead tree in your dream indicates that your hopes and desires have been dashed. You are experiencing some instability and setback in your life. Alternatively, the dead tree represents infertility or a lack of virility. Perhaps it signals an end to a familial line (as in a family tree).<\/p><p>To see bare trees in your dream indicate used up energy. You have put your all into some relationship or project and now you are exhausted. Perhaps you are even feeling depressed. Alternatively, the dream signifies the cycle of life or the passage of time.<\/p><p>To see crows perched on the dead tree symbolizes the end of some cycle or behavior. It is representative of death.<\/p><p>Dreaming of a tree that is bleeding refers to someone who is devoid of any emotion. Perhaps this person has experience a lot of hurt in their life. Alternatively, a bleeding tree symbolizes the cycle of life and death. If you dream of a forest of bleeding trees, then it highlights the transition from the beginning of something to the end or vice versa.<\/p><p>**See The Meaning In Action: &quot;<a href=\"http:\/\/dreammoods.com\/cgibin\/dreambank.pl?method=exact&amp;header=dreamid&amp;search=treedream1\">Scissors In The Forest&quot;<\/p>"
+        "title": "Trees",
+        "desc": "<p>To see lush green trees in your dream symbolize new hopes, growth, desires, knowledge, and life. It also implies strength, protection and stability. You are concentrating on your own self-development and individuation.<\/p><p>To dream that you are climbing a tree signifies achievement of your career goals and attainment of higher positions in life. The speed at which you climb the tree will parallel the speed of your achievement of these goals. If you are sitting under a tree alone, then it indicates a time for reflection. You are contemplating an important decision. If you are sitting under a tree with someone else, then it means that you are evaluating the relationship. The dream may also mean satisfaction with your current situation.<\/p><p>To dream that you chop or cut down a tree indicates that you are wasting your energy, time, and money on foolish pursuits. Alternatively, the dream may be a comment on your sexual fear or guilt.<\/p><p>To see a falling tree in your dream means that you are feeling off balance and out of sync. Perhaps, you are off track and headed in the wrong direction.<\/p><p>To see a withered or dead tree in your dream indicates that your hopes and desires have been dashed. You are experiencing some instability and setback in your life. Alternatively, the dead tree represents infertility or a lack of virility. Perhaps it signals an end to a familial line (as in a family tree).<\/p><p>To see bare trees in your dream indicate used up energy. You have put your all into some relationship or project and now you are exhausted. Perhaps you are even feeling depressed. Alternatively, the dream signifies the cycle of life or the passage of time.<\/p><p>To see crows perched on the dead tree symbolizes the end of some cycle or behavior. It is representative of death.<\/p><p>Dreaming of a tree that is bleeding refers to someone who is devoid of any emotion. Perhaps this person has experience a lot of hurt in their life. Alternatively, a bleeding tree symbolizes the cycle of life and death. If you dream of a forest of bleeding trees, then it highlights the transition from the beginning of something to the end or vice versa.<\/p><p>**See The Meaning In Action: &quot;<a href=\"http:\/\/dreammoods.com\/cgibin\/dreambank.pl?method=exact&amp;header=dreamid&amp;search=treedream1\">Scissors In The Forest<\/a>&quot;<\/p>"
     },
     {
         "title": "Tree House",
@@ -1245,7 +1269,7 @@
     },
     {
         "title": "Troll",
-        "desc": "<p>To see a troll in your dream suggests that you have an inferior self-image about yourself. You are belittling yourself or others. The troll in your dream may also represent someone in your waking life who you need to avoid.<\/p><p>*Please See Also<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/d3.htm#Dwarf\">Dwarf.<\/p>"
+        "desc": "<p>To see a troll in your dream suggests that you have an inferior self-image about yourself. You are belittling yourself or others. The troll in your dream may also represent someone in your waking life who you need to avoid.<\/p><p>*Please See Also: <a href=\"#Dwarf\">Dwarf<\/a>.<\/p>"
     },
     {
         "title": "Trolley",
@@ -1453,7 +1477,11 @@
     },
     {
         "title": "Twitch",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/j.htm#Jerk\">Jerk.<\/p><p>Twitter<\/p><p>To twitter in your dream represents your desires to stay connected with others. Perhaps you are expressing concerns about losing touch with someone around you. Alternatively, the dream implies that you need to be more concise in how you express yourself.<\/p><p>If you are following someone on twitter in your dream, then it may mean that you need to learn to think for yourself. You need to be a leader instead of a follower. Alternatively, if you dream that others are following you on twitter, then it highlights your leadership skills.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Jerk\">Jerk<\/a>.<\/p>"
+    },
+    {
+        "title": "Twitter",
+        "desc": "<p>To twitter in your dream represents your desires to stay connected with others. Perhaps you are expressing concerns about losing touch with someone around you. Alternatively, the dream implies that you need to be more concise in how you express yourself.<\/p><p>If you are following someone on twitter in your dream, then it may mean that you need to learn to think for yourself. You need to be a leader instead of a follower. Alternatively, if you dream that others are following you on twitter, then it highlights your leadership skills.<\/p>"
     },
     {
         "title": "Typewriter",
