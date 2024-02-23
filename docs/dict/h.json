@@ -45,7 +45,7 @@
     },
     {
         "title": "Hairclip",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/b.htm#Barrette\">Barrette.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Barrette\">Barrette<\/a>.<\/p>"
     },
     {
         "title": "Haircut",
@@ -53,7 +53,7 @@
     },
     {
         "title": "Hairdresser",
-        "desc": "<p>To dream that you are a hairdresser suggests that you are imposing your ideas and opinions on others. Perhaps you need to work on your self-image and improve on your image. Alternatively, it refers to your attitude toward your own sexuality.<\/p><p>To dream that you are at the hairdresser implies that you are looking to change your attitude. You are ready for change and move in a different direction.<\/p><p>*Please see also<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/s.htm#Salon\">Salon.<\/p>"
+        "desc": "<p>To dream that you are a hairdresser suggests that you are imposing your ideas and opinions on others. Perhaps you need to work on your self-image and improve on your image. Alternatively, it refers to your attitude toward your own sexuality.<\/p><p>To dream that you are at the hairdresser implies that you are looking to change your attitude. You are ready for change and move in a different direction.<\/p><p>*Please see also: <a href=\"#Salon\">Salon<\/a>.<\/p>"
     },
     {
         "title": "Hairnet",
@@ -65,7 +65,7 @@
     },
     {
         "title": "Hairpin",
-        "desc": "<p>*Please see<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/b4.htm#Bobbypin\">Bobby Pin.<\/p>"
+        "desc": "<p>*Please see: <a href=\"#Bobby%20pin\">Bobby Pin<\/a>.<\/p>"
     },
     {
         "title": "Hairspray",
@@ -145,7 +145,7 @@
     },
     {
         "title": "Handbag",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/p5.htm#Purse\">Purse.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Purse\">Purse<\/a>.<\/p>"
     },
     {
         "title": "Handcuffs",
@@ -245,7 +245,7 @@
     },
     {
         "title": "Hare",
-        "desc": "<p>Tosee a hare in your dream represents swiftness, transformation or self-sacrifice. What are you giving up or sacrificing in your waking life? It may also symbolize your rash behavior or cleverness.<\/p><p>*Please See also<a href=\"http:\/\/www.dreammoods.com\/dreamdictioanry\/r.htm#Rabbit\">Rabbit.<\/p>"
+        "desc": "<p>Tosee a hare in your dream represents swiftness, transformation or self-sacrifice. What are you giving up or sacrificing in your waking life? It may also symbolize your rash behavior or cleverness.<\/p><p>*Please See also: <a href=\"#Rabbit\">Rabbit<\/a>.<\/p>"
     },
     {
         "title": "Harem",
@@ -261,7 +261,7 @@
     },
     {
         "title": "Harmony",
-        "desc": "<p>Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/m4.htm#Music\">Music.<\/p>"
+        "desc": "<p>Please See: <a href=\"#Music\">Music<\/a>.<\/p>"
     },
     {
         "title": "Harness",
@@ -301,7 +301,7 @@
     },
     {
         "title": "Hatchet",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/a4.htm#Ax\">Ax.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Ax\">Ax<\/a>.<\/p>"
     },
     {
         "title": "Hate",
@@ -393,7 +393,7 @@
     },
     {
         "title": "Health Club",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/g3.htm#Gynasium\">Gymnasium.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Gynasium\">Gymnasium<\/a>.<\/p>"
     },
     {
         "title": "Hear",
@@ -509,7 +509,7 @@
     },
     {
         "title": "Hemorrhage",
-        "desc": "<p>Todream that you are hemorrhaging suggests loss of vitality, loss of faith in yourself, and lack of self-confidence. Also consider where you are hemorrhaging from and analyze the symbolism of that body part.<\/p><p>*Please see also<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/b3.htm#Blood\">Blood.<\/p>"
+        "desc": "<p>Todream that you are hemorrhaging suggests loss of vitality, loss of faith in yourself, and lack of self-confidence. Also consider where you are hemorrhaging from and analyze the symbolism of that body part.<\/p><p>*Please see also: <a href=\"#Blood\">Blood<\/a>.<\/p>"
     },
     {
         "title": "Hemorrhoids",
@@ -517,7 +517,7 @@
     },
     {
         "title": "Hemp",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/m.htm#Marijuana\">Marijuana.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Marijuana\">Marijuana<\/a>.<\/p>"
     },
     {
         "title": "Hen",
@@ -545,7 +545,11 @@
     },
     {
         "title": "Hermaphrodite",
-        "desc": "<p>* Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/i2.htm#Intersex\">Intersex.<\/p><p>Hermit<\/p><p>To dream that you are a hermit represents your need to be alone or that you are feeling alone. You are withdrawing from daily life and distancing yourself from others. Find a way to get out of this rut.<\/p>"
+        "desc": "<p>* Please See: <a href=\"#Intersex\">Intersex<\/a>.<\/p>"
+    },
+    {
+        "title": "Hermit",
+        "desc": "<p>To dream that you are a hermit represents your need to be alone or that you are feeling alone. You are withdrawing from daily life and distancing yourself from others. Find a way to get out of this rut.<\/p>"
     },
     {
         "title": "Hero",
@@ -625,7 +629,7 @@
     },
     {
         "title": "High School",
-        "desc": "<p>To dream about high school refers to the bonds and friendships that you made while you were in high school. What spiritual lessons have you learned? The dream may also be telling you that you need to start preparing for the real world.<\/p><p>To dream that you have to repeat high school suggests that you are doubting your accomplishments and the goals that you have already completed. You feel that you may not be measuring up to the expectation of others. The dream may occur because some recent situation may have awakened old anxieties and insecurities.<\/p><p>*Please See Also<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/s.htm#School\">School.<\/p>"
+        "desc": "<p>To dream about high school refers to the bonds and friendships that you made while you were in high school. What spiritual lessons have you learned? The dream may also be telling you that you need to start preparing for the real world.<\/p><p>To dream that you have to repeat high school suggests that you are doubting your accomplishments and the goals that you have already completed. You feel that you may not be measuring up to the expectation of others. The dream may occur because some recent situation may have awakened old anxieties and insecurities.<\/p><p>*Please See Also: <a href=\"#School\">School<\/a>.<\/p>"
     },
     {
         "title": "High Top",
@@ -641,7 +645,7 @@
     },
     {
         "title": "Highway",
-        "desc": "<p>To see a highway in your dream represents your sense of direction and your life's path. Consider the conditions of the highway which will reveal how much you feel in charge of your life. A smooth, straight highway signifies inner peace, while a winding, bumpy road reflects emotional distress\/disharmony.<\/p><p>To see an elevated highway in your dream implies that you are taking the higher road in some situation. Alternatively, the dream means that you believe your way of doing things is more superior.<\/p><p>*Please See Also<a href=\"http:\/\/dreammoods.com\/dreamdictionary\/r3.htm#Road\">Road.<\/p>"
+        "desc": "<p>To see a highway in your dream represents your sense of direction and your life's path. Consider the conditions of the highway which will reveal how much you feel in charge of your life. A smooth, straight highway signifies inner peace, while a winding, bumpy road reflects emotional distress\/disharmony.<\/p><p>To see an elevated highway in your dream implies that you are taking the higher road in some situation. Alternatively, the dream means that you believe your way of doing things is more superior.<\/p><p>*Please See Also: <a href=\"#Road\">Road<\/a>.<\/p>"
     },
     {
         "title": "Hijack",
@@ -701,7 +705,11 @@
     },
     {
         "title": "Hive",
-        "desc": "<p>*Please see<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/b2.htm#beehive\">Beehive.<\/p><p>Hives<\/p><p>To dream that you break out in hives indicate that you are worried about some situation or decision. It also signifies nervousness or fear.<\/p>"
+        "desc": "<p>*Please see: <a href=\"#beehive\">Beehive<\/a>.<\/p>"
+    },
+    {
+        "title": "Hives",
+        "desc": "<p>To dream that you break out in hives indicate that you are worried about some situation or decision. It also signifies nervousness or fear.<\/p>"
     },
     {
         "title": "Hoarding",
@@ -721,7 +729,11 @@
     },
     {
         "title": "Hobo",
-        "desc": "<p>*Please see<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/v.htm#Vagrant\">Vagrant.<\/p><p>Hockey<\/p><p>To dream that you are playing or watching hockey is analogous to how you are achieving and protecting of your goals. It also suggests that you may be dealt with a lot of hard blows in your life.<\/p>"
+        "desc": "<p>*Please see: <a href=\"#Vagrant\">Vagrant<\/a>.<\/p>"
+    },
+    {
+        "title": "Hockey",
+        "desc": "<p>To dream that you are playing or watching hockey is analogous to how you are achieving and protecting of your goals. It also suggests that you may be dealt with a lot of hard blows in your life.<\/p>"
     },
     {
         "title": "Hoe",
@@ -729,7 +741,7 @@
     },
     {
         "title": "Hog",
-        "desc": "<p>To see a hog in your dream symbolizes abundance. The dream may also be a pun on how you are &quot;hogging&quot; everything instead of sharing.<\/p><p>To see a hog playing in the mud suggests that you are lowering your standards.<\/p><p>*Please Also See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/p2.htm#Pig\">Pig.<\/p>"
+        "desc": "<p>To see a hog in your dream symbolizes abundance. The dream may also be a pun on how you are &quot;hogging&quot; everything instead of sharing.<\/p><p>To see a hog playing in the mud suggests that you are lowering your standards.<\/p><p>*Please Also See: <a href=\"#Pig\">Pig<\/a>.<\/p>"
     },
     {
         "title": "Hold",
@@ -813,7 +825,11 @@
     },
     {
         "title": "Homicide",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/m.htm#Murder\">Murder.<\/p><p>Honesty<\/p><p>To dream that someone is honest to you implies that you are seeking the truth. You feel that you are being mislead in some way in your waking life. Someone is not being open about their motives or feelings.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Murder\">Murder<\/a>.<\/p>"
+    },
+    {
+        "title": "Honesty",
+        "desc": "<p>To dream that someone is honest to you implies that you are seeking the truth. You feel that you are being mislead in some way in your waking life. Someone is not being open about their motives or feelings.<\/p>"
     },
     {
         "title": "Honey",
@@ -853,7 +869,11 @@
     },
     {
         "title": "Hooker",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/p3.htm#Prostitute\">Prostitute.<\/p><p>Hookie<\/p><p>To dream that you are playing hookie from school or work suggests that you are trying to &quot;ditch&quot; or avoid some responsibility. You are not owning up to your duties. It also denotes self guilt.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Prostitute\">Prostitute<\/a>.<\/p>"
+    },
+    {
+        "title": "Hookie",
+        "desc": "<p>To dream that you are playing hookie from school or work suggests that you are trying to &quot;ditch&quot; or avoid some responsibility. You are not owning up to your duties. It also denotes self guilt.<\/p>"
     },
     {
         "title": "Hooks",
@@ -1061,7 +1081,11 @@
     },
     {
         "title": "Humidicrib",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/i.htm#Incubator\">Incubator.<\/p><p>Humidifier<\/p><p>To see or use a humidifier in your dream suggests that you are looking for a fresh infusion of ideas within your creative or work life. Alternatively, the dream means that you are in need of a spiritual renewal or cleansing.<\/p>"
+        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/i.htm#Incubator\">Incubator.<\/p>"
+    },
+    {
+        "title": "Humidifier",
+        "desc": "<p>To see or use a humidifier in your dream suggests that you are looking for a fresh infusion of ideas within your creative or work life. Alternatively, the dream means that you are in need of a spiritual renewal or cleansing.<\/p>"
     },
     {
         "title": "Hummer",
@@ -1077,7 +1101,11 @@
     },
     {
         "title": "Humor",
-        "desc": "<p>*Please See<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/l.htm#Laughing\">Laughing.<\/p><p>Humpty Dumpty<\/p><p>To see Humpty Dumpty in your dream suggests that you need to exercise care in some fragile situation. Alternatively, it refers to some irreversible plan or action. You can not go back to the past; you need to just accept the consequences of your actions.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Laughing\">Laughing<\/a>.<\/p>"
+    },
+    {
+        "title": "Humpty Dumpty",
+        "desc": "<p>To see Humpty Dumpty in your dream suggests that you need to exercise care in some fragile situation. Alternatively, it refers to some irreversible plan or action. You can not go back to the past; you need to just accept the consequences of your actions.<\/p>"
     },
     {
         "title": "Hunchback",
