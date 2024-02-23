@@ -33,7 +33,7 @@
     },
     {
         "title": "Quake",
-        "desc": "<p>*Please see<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/e.htm#earthquake\">Earthquake.<\/p>"
+        "desc": "<p>*Please see: <a href=\"#earthquake\">Earthquake<\/a>.<\/p>"
     },
     {
         "title": "Quaker",
@@ -85,7 +85,7 @@
     },
     {
         "title": "Queue",
-        "desc": "<p>*Please see<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/l2.htm#Line\">Line.<\/p>"
+        "desc": "<p>*Please see: <a href=\"#Line\">Line<\/a>.<\/p>"
     },
     {
         "title": "Quicksand",
@@ -125,11 +125,11 @@
     },
     {
         "title": "Quiver",
-        "desc": "<p>*Please see<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/s2.htm#Shiver\">Shiver.<\/p>"
+        "desc": "<p>*Please see: <a href=\"#Shiver\">Shiver<\/a>.<\/p>"
     },
     {
         "title": "Quiz",
-        "desc": "<p>*Please see<a href=\"http:\/\/www.dreammoods.com\/dreamdictionary\/e2.htm#Exam\">Exam.<\/p>"
+        "desc": "<p>*Please see: <a href=\"#Exam\">Exam<\/a>.<\/p>"
     },
     {
         "title": "Quota",
