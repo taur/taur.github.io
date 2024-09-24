@@ -16,15 +16,15 @@ jQuery(document).ready(function($) {
 	});
 });
 window.tryGetFromCache = function(val) {
-	let ch = val.substr(0, 1).toLowerCase();
+	val = val.toLowerCase();
+	let ch = val.substring(0, 1);
 	if (ch.match(/^[a-z]$/)) {
-		val = val.toLowerCase();
 		console.log('keydown triggered, val is: '+val);
-		if (!window.dreamCache[ch]) {
+		if (!window.dreamCache[ch]) { // is cache miss ?
 			window.dreamCache[ch] = true; // set up placeholder
 			let url = window.urlPrefix+ch+'.json';
 			console.log('cache miss, downloading '+url);
-			$.get(url, function(res) {
+			$.get(url, function(res) { // get /dict/ json
 				console.log('downloaded '+url);
 				window.dreamCache[ch] = res; // save to cache
 				if (val.length > 1)
@@ -39,7 +39,7 @@ window.tryGetFromCache = function(val) {
 }
 window.hashChange = function(e) {
 	if (location.hash && location.hash.length > 1) {
-		let val = decodeURI(location.hash.substr(1));
+		let val = decodeURI(location.hash.substring(1));
 		$('#symbol').val(val);
 		window.tryGetFromCache(val);
 	}
@@ -48,7 +48,7 @@ $(window).bind('hashchange', window.hashChange);
 window.hashChange();
 window.updateAutoCompleteWithVal = function() {
 	if (window.cachedVal) {
-		let ch = window.cachedVal.substr(0, 1);
+		let ch = window.cachedVal.substring(0, 1);
 		if (window.dreamCache[ch]
 			&& window.dreamCache[ch] !== true) {
 			window.updateAutoComplete(window.cachedVal);
@@ -57,7 +57,7 @@ window.updateAutoCompleteWithVal = function() {
 	}
 }
 window.updateAutoComplete = function(val) {
-	let ch = val.substr(0, 1), output = '',
+	let ch = val.substring(0, 1), output = '',
 		items = window.dreamCache[ch];
 	if (items === true) {
 		console.log('Scheduled search');
