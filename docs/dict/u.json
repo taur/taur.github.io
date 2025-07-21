@@ -113,7 +113,7 @@
     },
     {
         "title": "Unhappy",
-        "desc": "<p>Please See: <a href=\"#Sad\">Sad<\/a>.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Sad\">Sad<\/a>.<\/p>"
     },
     {
         "title": "Unibrow",
@@ -153,7 +153,7 @@
     },
     {
         "title": "Unmarried",
-        "desc": "<p>Please See: <a href=\"#Single\">Single<\/a>.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Single\">Single<\/a>.<\/p>"
     },
     {
         "title": "Unprepared",

@@ -265,7 +265,7 @@
     },
     {
         "title": "Bank",
-        "desc": "<p>To see a bank in your dream denotes your desires for financial security. The dream may be trying to offer reassurance and that your fears of financial instability are unfounded.<\/p><p>To dream that you are robbing a bank signifies that you are expending too much energy and are in danger of depleting your inner resources. Alternatively, it indicates that money that is due to you is being delayed.<\/p><p>Dreaming that someone is robbing a bank or that you witness a bank robbery symbolizes lack of financial stability in your waking life.<\/p><p>*Please see also: <a href=\"http:\/\/www.dreammoods.com\/v.htm#vault\">Vault<\/a>.<\/p>"
+        "desc": "<p>To see a bank in your dream denotes your desires for financial security. The dream may be trying to offer reassurance and that your fears of financial instability are unfounded.<\/p><p>To dream that you are robbing a bank signifies that you are expending too much energy and are in danger of depleting your inner resources. Alternatively, it indicates that money that is due to you is being delayed.<\/p><p>Dreaming that someone is robbing a bank or that you witness a bank robbery symbolizes lack of financial stability in your waking life.<\/p><p>*Please see also: <a href=\"#Vault\">Vault<\/a>.<\/p>"
     },
     {
         "title": "Banker",
@@ -409,7 +409,7 @@
     },
     {
         "title": "Basin",
-        "desc": "<p>*Please see: <a href=\"#bathtubs\">Bathtubs<\/a><\/p>"
+        "desc": "<p>*Please see: <a href=\"#Bathtubs\">Bathtubs<\/a><\/p>"
     },
     {
         "title": "Basket",
@@ -417,7 +417,7 @@
     },
     {
         "title": "Basketball",
-        "desc": "<p>To dream that you are playing basketball indicates teamwork and cooperation. There is a situation in your waking life where you will need the cooperation and assistance of others in order to achieve a common goal. Perhaps you are standing in the way of your own progress and need to ask for help.<\/p><p>To see a basketball in your dream suggests that you need to make the first move. You also need to concentrate and focus on your goals.<\/p><p>*Please See Also: <a href=\"#dunk\">Dunk<\/a>.<\/p>"
+        "desc": "<p>To dream that you are playing basketball indicates teamwork and cooperation. There is a situation in your waking life where you will need the cooperation and assistance of others in order to achieve a common goal. Perhaps you are standing in the way of your own progress and need to ask for help.<\/p><p>To see a basketball in your dream suggests that you need to make the first move. You also need to concentrate and focus on your goals.<\/p><p>*Please See Also: <a href=\"#Dunk\">Dunk<\/a>.<\/p>"
     },
     {
         "title": "Bass",
@@ -517,7 +517,7 @@
     },
     {
         "title": "Beach Ball",
-        "desc": "<p>To see or play with a beach ball in your dream signifies your playful and lighthearted emotions.<\/p><p>*Please See Also: <a href=\"http:\/\/www.dreammoods.com\/b.htm#Ball\">Ball<\/a>.<\/p>"
+        "desc": "<p>To see or play with a beach ball in your dream signifies your playful and lighthearted emotions.<\/p><p>*Please See Also: <a href=\"#Ball\">Ball<\/a>.<\/p>"
     },
     {
         "title": "Beach House",
@@ -653,11 +653,11 @@
     },
     {
         "title": "Beeper",
-        "desc": "<p>*Please See: <a href=\"#pager\">Pager<\/a>.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Pager\">Pager<\/a>.<\/p>"
     },
     {
         "title": "Beer",
-        "desc": "<p>To see or drink beer in your dream represents happiness, relaxation, and\/ or inspiration. You are free of worries and enjoying the moment. Alternatively, beer drinking refers to your social life.<\/p><p>*Please also see<a href=\"#Alcohol\">Alcohol<\/a>.<\/p>"
+        "desc": "<p>To see or drink beer in your dream represents happiness, relaxation, and\/ or inspiration. You are free of worries and enjoying the moment. Alternatively, beer drinking refers to your social life.<\/p><p>*Please also see: <a href=\"#Alcohol\">Alcohol<\/a>.<\/p>"
     },
     {
         "title": "Beer Bong",
@@ -1089,7 +1089,7 @@
     },
     {
         "title": "Blowfish",
-        "desc": "<p>* Please See: <a href=\"Puffer%20fish\">Puffer Fish<\/a>.<\/p>"
+        "desc": "<p>*Please See: <a href=\"Puffer%20Fish\">Puffer Fish<\/a>.<\/p>"
     },
     {
         "title": "Blowhole",
@@ -1209,7 +1209,7 @@
     },
     {
         "title": "Bog",
-        "desc": "<p>*Please See: <a href=\"http:\/\/dreammoods.com\/cgibin\/searchcsv.pl?search=swamp&amp;method=exact&amp;header=symbol\">Swamp<\/a>.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Swamp\">Swamp<\/a>.<\/p>"
     },
     {
         "title": "Bogeyman",
@@ -1285,11 +1285,15 @@
     },
     {
         "title": "Booing",
-        "desc": "<p>To hear booing or dream that you are being booed indicates that you are seeking approval and affirmation from others. Alternatively, you may find yourself in an embarrassing or shameful situation.<br>"
+        "desc": "<p>To hear booing or dream that you are being booed indicates that you are seeking approval and affirmation from others. Alternatively, you may find yourself in an embarrassing or shameful situation.<\/p>"
     },
     {
-        "title": "*Please See Knapsack.",
-        "desc": "<p>Bookkeeper<\/p><p>To dream that you are a bookkeeper represents a need to keep you life in balance and in harmony. Alternatively, it may indicate that you should be held accountable for some condition or circumstance.<\/p>"
+        "title": "Book Bag",
+        "desc": "<p>*Please See: <a href=\"#Knapsack\">Knapsack<\/a>.<\/p>"
+    },
+    {
+        "title": "Bookkeeper",
+        "desc": "<p>To dream that you are a bookkeeper represents a need to keep you life in balance and in harmony. Alternatively, it may indicate that you should be held accountable for some condition or circumstance.<\/p>"
     },
     {
         "title": "Bookmark",
@@ -1337,7 +1341,7 @@
     },
     {
         "title": "Bosom",
-        "desc": "<p>* Please See: <a href=\"#Breasts\">Breasts<\/a>.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Breasts\">Breasts<\/a>.<\/p>"
     },
     {
         "title": "Boss",
@@ -1517,7 +1521,7 @@
     },
     {
         "title": "Bravery",
-        "desc": "<p>*Please See: <a href=\"#courage\">Courage<\/a>.<\/p>"
+        "desc": "<p>*Please See: <a href=\"#Courage\">Courage<\/a>.<\/p>"
     },
     {
         "title": "Bread",
@@ -1549,7 +1553,7 @@
     },
     {
         "title": "Breast Feeding",
-        "desc": "<p>To dream that you are breast feeding or nursing symbolizes tenderness, love, nurturance, and motherly love. Good things will be at your grasp. Alternatively, the dream suggests that you need to be careful in who you confide in.<\/p><p>To see someone breastfeeding indicates that you are nurturing a hidden aspect of yourself.<\/p><p>* Please See Also: <a href=\"#Lactating\">Lactating<\/a>.<\/p>"
+        "desc": "<p>To dream that you are breast feeding or nursing symbolizes tenderness, love, nurturance, and motherly love. Good things will be at your grasp. Alternatively, the dream suggests that you need to be careful in who you confide in.<\/p><p>To see someone breastfeeding indicates that you are nurturing a hidden aspect of yourself.<\/p><p>*Please See Also: <a href=\"#Lactating\">Lactating<\/a>.<\/p>"
     },
     {
         "title": "Breast Implants",
@@ -1877,7 +1881,7 @@
     },
     {
         "title": "Burial",
-        "desc": "<p>To see a burial in your dream indicates that you have gotten rid of your bad habits and have freed yourself from a negative situation. You are finally letting go of something.<\/p><p>To dream that you are burying a living person signifies emotional turmoil. Alternatively, it suggests that you are being buried by problems and stresses of your waking life.<\/p><p>To dream that you are being buried alive suggests that you are being undermined or stifled in some way. You are feeling trapped or helpless.<\/p><p>* Please also see: <a href=\"#funeral\">Funeral<\/a>.<\/p>"
+        "desc": "<p>To see a burial in your dream indicates that you have gotten rid of your bad habits and have freed yourself from a negative situation. You are finally letting go of something.<\/p><p>To dream that you are burying a living person signifies emotional turmoil. Alternatively, it suggests that you are being buried by problems and stresses of your waking life.<\/p><p>To dream that you are being buried alive suggests that you are being undermined or stifled in some way. You are feeling trapped or helpless.<\/p><p>*Please also see: <a href=\"#Funeral\">Funeral<\/a>.<\/p>"
     },
     {
         "title": "Burlap",
