@@ -1,0 +1,10 @@
+icon: favicon.ico
+plugins:
+  - jekyll-postcss-v2
+
+postcss:
+  cache: false
+
+exclude:
+  - postcss.config.js
+  - package*.json

@@ -69,7 +69,7 @@ window.updateAutoComplete = function(val) {
 		for (i in items) {
 			if (items[i].title.toLowerCase().startsWith(val)) {
 				output += '<details>' +
-					'<summary>'+items[i].title+'</summary>' +
+					'<summary class="cursor-pointer">'+items[i].title+'</summary>' +
 					items[i].desc +
 				'</details>';
 			}
