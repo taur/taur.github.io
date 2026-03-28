@@ -47,7 +47,7 @@ table {
 	}
 	&.inline-table { display: inline-table;	}
 	&.border-collapse { border-collapse: collapse; }
-	&.border { border-width: 1px; }
+	&.border { border-width: 1px; border-style: solid; }
 }
 input[type=button],
 input[type=submit],
