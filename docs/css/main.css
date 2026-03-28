@@ -1,38 +1,81 @@
 @media (prefers-color-scheme: dark) {
-	body,
-	input[type=checkbox],
-	input[type=color],
-	input[type=date],
-	input[type=email],
-	input[type=month],
-	input[type=number],
-	input[type=password],
-	input[type=radio],
-	input[type=range],
-	input[type=search],
-	input[type=tel],
-	input[type=text],
-	input[type=time],
-	input[type=url],
-	input[type=week] {
-		background-color: #000;
-		color: #0f0;
+	:root {
+		--bg-primary: #000;
+		--bg-accent: #444;
+		--fg-primary: #0f0;
+		--link: #3b78ff;
 	}
-	summary {
-		background-color: #444;
+}
+@media (prefers-color-scheme: light) {
+	:root {
+		--bg-primary: #fff;
+		--bg-accent: #888;
+		--fg-primary: #000;
 	}
-
 }
 body {
+	background-color: var(--bg-primary);
+	color: var(--fg-primary);
 	font-family: sans-serif;
 	text-align: center;
+}
+input[type=color],
+input[type=date],
+input[type=email],
+input[type=month],
+input[type=number],
+input[type=password],
+input[type=range],
+input[type=search],
+input[type=tel],
+input[type=text],
+input[type=time],
+input[type=url],
+input[type=week],
+textarea,
+summary {
+	background-color: var(--bg-accent);
+}
+a {
+	color: var(--link);
+}
+table {
+	border-color: var(--fg-primary);
+	border-spacing: 0;
+	td {
+		padding: 10px;
+	}
+	&.inline-table { display: inline-table;	}
+	&.border-collapse { border-collapse: collapse; }
+	&.border { border-width: 1px; }
+}
+input[type=button],
+input[type=submit],
+input[type=reset] {
+	border-color: var(--fg-primary);
+}
+nav {
+	padding-bottom: 25px;
+	.home {
+		font-size: x-large;
+	}
 }
 details {
 	margin: 2px;
 	padding: 2px;
-	border: 1px solid #666;
+	border: 1px solid var(--bg-accent);
+	& > p {
+		margin: 10px;
+	}
 }
-details > p {
-	margin: 10px;
+input[type=button],
+input[type=submit],
+input[type=reset] {
+	cursor: pointer;
+	border-width: 1px;
+	padding: 0 4px;
+	border-radius: 5px;
 }
-summary { cursor:pointer; }
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
