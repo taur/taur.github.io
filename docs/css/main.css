@@ -3,14 +3,21 @@
 		--bg-primary: #000;
 		--bg-accent: #444;
 		--fg-primary: #0f0;
+		--link-visited: #808;
+		--link-active: #f00;
+		--link-hover: #f80;
 		--link: #3b78ff;
 	}
 }
 @media (prefers-color-scheme: light) {
 	:root {
 		--bg-primary: #fff;
-		--bg-accent: #888;
+		--bg-accent: #ddd;
 		--fg-primary: #000;
+		--link-visited: #800080;
+		--link-active: #f00;
+		--link-hover: #f80;
+		--link: #00e;
 	}
 }
 body {
@@ -37,9 +44,10 @@ summary {
 	background-color: var(--bg-accent);
 	color: var(--fg-primary);
 }
-a {
-	color: var(--link);
-}
+a:visited { color: var(--link-visited); }
+a:active { color: var(--link-active); }
+a:hover { color: var(--link-hover); }
+a:link { color: var(--link); }
 table {
 	border-color: var(--fg-primary);
 	border-spacing: 0;
