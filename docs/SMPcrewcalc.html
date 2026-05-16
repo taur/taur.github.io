@@ -20,16 +20,19 @@ title: Sid Meier's Pirates Crew Mood Calculator
 		var C;
 		var G;
 		var K=(document.forms[0].cook.checked==true)?1:0;
-		if(func==4){
-			C=parseInt(document.forms[0].elements[func].value);
-			G=parseInt((999*C*M)-(18981*K*M)+(19980*M)-500);
-			document.forms[0].output.value=G+' minimum Gold.';
-		}else{
-			G=parseInt(document.forms[0].elements[func].value);
-			C=parseInt((G+(18981*K*M)-(19980*M)+500)/(999*M));
-			document.forms[0].output.value=C +' crewmembers.';
+		switch (func) {
+			case 4:
+				C=parseInt(document.forms[0].elements[func].value);
+				G=parseInt((999*C*M)-(18981*K*M)+(19980*M)-500);
+				document.forms[0].output.value=G+' minimum Gold.';
+				break;
+			case 5:
+				G=parseInt(document.forms[0].elements[func].value);
+				C=parseInt((G+(18981*K*M)-(19980*M)+500)/(999*M));
+				document.forms[0].output.value=C +' crewmembers.';
+				break;
 		}
-		var text='hello';
+		return false;
 	}
 	</script>
 	<h1>{{ page.title }}</h1>
@@ -50,7 +53,7 @@ title: Sid Meier's Pirates Crew Mood Calculator
 		<br>
 	</code>
 
-	<form action="#" onsubmit="return false">
+<form action="#" onsubmit="return false">
 
 	<table class="inline-table border-collapse border">
 		<tr>
@@ -78,11 +81,11 @@ title: Sid Meier's Pirates Crew Mood Calculator
 		</tr><tr>
 			<td colspan="2"><label>Have Cook (K):<input type="checkbox" name="cook" checked></label></td>
 		</tr><tr>
-			<td><input type="submit" value="Calculate (G)" onclick="calc(4)"></td>
-			<td><input type="submit" value="Calculate (C)" onclick="calc(5)"></td>
+			<td><input type="submit" value="Calculate (G)" onclick="return calc(4)"></td>
+			<td><input type="submit" value="Calculate (C)" onclick="return calc(5)"></td>
 		</tr><tr>
 			<td colspan="2"><label>Result will be displayed here.<br>
-				<textarea cols="40" rows="1" name="output"></textarea>
+				<output cols="40" rows="1" name="output" for="mood crew gold cook"></output>
 			</label></td>
 		</tr><tr>
 			<td colspan="2">
