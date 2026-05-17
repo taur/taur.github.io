@@ -74,6 +74,7 @@ output {
 	border: 1px solid var(--fg-primary);
 	padding: 2px;
 	margin: 2px;
+	min-height: 18px;
 }
 details {
 	margin: 2px;
