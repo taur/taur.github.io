@@ -1,1 +1,7 @@
-<nav><a href="/" class="home">&#x2302;</a>| <a href="/SMPcrewcalc.html">Sid Meier's Pirates Crew Calculator</a> | <a href="/DreamSearch.html">Dream Symbol Search</a></nav>
+<nav>
+{% comment %}for nav in site.data.nav{% endcomment %}
+{% assign navs = site.pages | uniq | sort: "permalink" %}{% 
+{% for nav in navs %}{% if nav.nav %}
+<a href="{{ nav.permalink }}"{% if nav.class %} class="{{ nav.class }}"{% endif %}>{{ nav.nav }}</a>{% if forloop.last == false %} | {% endif %}
+{%endif %}{% endfor %}
+</nav>
