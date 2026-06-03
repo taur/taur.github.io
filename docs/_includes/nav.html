@@ -1,6 +1,6 @@
 <nav>
 {% comment %}for nav in site.data.nav{% endcomment %}
-{% assign navs = site.pages | uniq | sort: "permalink" %}{% 
+{% assign navs = site.pages | uniq | sort: "permalink" %}
 {% for nav in navs %}{% if nav.nav %}
 <a href="{{ nav.permalink }}"{% if nav.class %} class="{{ nav.class }}"{% endif %}>{{ nav.nav }}</a>{% if forloop.last == false %} | {% endif %}
 {%endif %}{% endfor %}
